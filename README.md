@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
-**fan1959/fan1959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Sichuan University, passionate about software development and game creation.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SiChuan University
-- 🌱 I’m currently learning dataStructure,Cplusplus,Unity and C#
-- 👯 I’m looking to collaborate on making games, learn Unity efficiently together
-- 📫 How to reach me: E-mail 484967158@qq.com
--->
+- 🔭 **Currently working on**: Academic projects and personal explorations in computer science  
+- 🌱 **Currently learning**: Data Structures, C++, C#, and Unity game development  
+- 👯 **Open to collaboration**: If you're building games or exploring Unity, let’s learn and create together!  
+- 📫 **Get in touch**: [484967158@qq.com](mailto:484967158@qq.com)
